@@ -98,7 +98,7 @@ Review the examples and run them in your Data Explorer query page.
 
 ### Getting the largest element from the array
 
-The query outputs the smallest even number (2) and the smallest odd number (1).
+The query outputs the largest even number (8) and the largest odd number (7).
 <!-- //the query and header do not match. Is the query wrong?// -->
 
 :::moniker range="azure-data-explorer"
